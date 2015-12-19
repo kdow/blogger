@@ -11,3 +11,5 @@ The goals of this project are to create a simple blog system and learn the basic
 <li>RESTful design</li>
 <li>Adding gems for extra features</li>
 </ul>
+
+<a href="https://enigmatic-tor-3115.herokuapp.com/">View my blog project here.</a>
